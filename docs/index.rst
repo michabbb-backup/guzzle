@@ -1,4 +1,4 @@
-.. title:: Guzzle | PHP HTTP client and framework for consuming RESTful web services
+.. title:: Guzzle, PHP HTTP client
 
 ====================
 Guzzle Documentation
